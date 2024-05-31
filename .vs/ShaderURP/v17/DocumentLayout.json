@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|g:\\0-yjs\\projects\\shaderurp\\shaderurp\\assets\\example\\cartoon\\cartoon.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|solutionrelative:assets\\example\\cartoon\\cartoon.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|g:\\0-yjs\\projects\\shaderurp\\shaderurp\\assets\\example\\cartoon\\\u838E\u8389\\mat\\test.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|solutionrelative:assets\\example\\cartoon\\\u838E\u8389\\mat\\test.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\assets\\example\\water\\watercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|solutionrelative:assets\\example\\water\\watercolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\assets\\example\\light\\samplelight.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|solutionrelative:assets\\example\\light\\samplelight.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\assets\\example\\cartoon\\cartoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08259AF0-E081-F5B5-CF16-B08FC7D50885}|Assembly-CSharp.csproj|solutionrelative:assets\\example\\cartoon\\cartoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.shader",
+              "DocumentMoniker": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\\u838E\u8389\\mat\\Test.shader",
+              "RelativeDocumentMoniker": "Assets\\Example\\Cartoon\\\u838E\u8389\\mat\\Test.shader",
+              "ToolTip": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\\u838E\u8389\\mat\\Test.shader",
+              "RelativeToolTip": "Assets\\Example\\Cartoon\\\u838E\u8389\\mat\\Test.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-05-31T08:13:47.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cartoon.shader",
+              "DocumentMoniker": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\Cartoon.shader",
+              "RelativeDocumentMoniker": "Assets\\Example\\Cartoon\\Cartoon.shader",
+              "ToolTip": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\Cartoon.shader",
+              "RelativeToolTip": "Assets\\Example\\Cartoon\\Cartoon.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-05-29T09:00:21.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleLight.shader",
+              "DocumentMoniker": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Light\\SampleLight.shader",
+              "RelativeDocumentMoniker": "Assets\\Example\\Light\\SampleLight.shader",
+              "ToolTip": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Light\\SampleLight.shader",
+              "RelativeToolTip": "Assets\\Example\\Light\\SampleLight.shader",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-05-31T07:15:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cartoon.cs",
+              "DocumentMoniker": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\Cartoon.cs",
+              "RelativeDocumentMoniker": "Assets\\Example\\Cartoon\\Cartoon.cs",
+              "ToolTip": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Cartoon\\Cartoon.cs",
+              "RelativeToolTip": "Assets\\Example\\Cartoon\\Cartoon.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:53:24.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WaterColor.cs",
+              "DocumentMoniker": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Water\\WaterColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Example\\Water\\WaterColor.cs",
+              "ToolTip": "G:\\0-YJS\\Projects\\ShaderURP\\ShaderURP\\Assets\\Example\\Water\\WaterColor.cs",
+              "RelativeToolTip": "Assets\\Example\\Water\\WaterColor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:49:39.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
